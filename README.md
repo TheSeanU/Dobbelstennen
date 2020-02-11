@@ -1,1 +1,3 @@
-# dobbelstennen
+Dobbelstennen.
+
+Project 1 Script.
